@@ -1,0 +1,30 @@
+body{
+	background-color: royalblue;
+}
+p{
+	font-size: 32px;
+.p1{
+	color: yellowgreen;
+	background-color: paleturquoise;
+}
+.p2{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.p3{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.p7{
+ font-family: "Kablammo", system-ui;
+}
+.p8{
+	 font-family: "Rubik Scribble", system-ui;
+}
+.p9{
+	font-family: "Rubik Maps", system-ui;
+}
+.p10{
+	font-family: "Rubik Moonrocks", sans-serif;
+}
+.p11{
+	font-family: "Pacifico", cursive;
+}

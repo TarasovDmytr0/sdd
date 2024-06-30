@@ -1,0 +1,35 @@
+body{
+	background-color: lightpink;
+}
+p{
+	font-size: 50px;
+	color: aqua;
+	background-color: blueviolet;
+}
+table{
+	border: double 2px blue;
+	font-size: 24px;
+	width: 50%;
+}
+th{
+	border: solid 1px plum;
+	width: 25%;
+}
+tr{
+	height: 1cm;
+}
+tr:hover{
+	background-color: lightgray;
+}
+td:hover{
+	background-image: url(https://i.gifer.com/origin/94/94a8a454f1cf45c6ca54a88037939dcf_w200.gif);
+	text-transform: uppercase;
+	font-weight: bold;
+	text-align: center;
+}
+tr:nth-child(odd){
+	background-color: lightskyblue;
+}
+tr:nth-child(even){
+	background-color: lightgoldenrodyellow;
+}
